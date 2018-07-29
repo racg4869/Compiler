@@ -1,0 +1,41 @@
+12
+E:TG
+G:OTG
+G: 
+O:+
+O:-
+T:FH
+H:MFH
+H: 
+M:*
+M:/
+F:(E)
+F:1
+3
+A:DA
+D: 
+D:d
+14
+S : a A F
+A : B
+A : C
+B : DB
+C : EC
+D : x 
+D : y 
+D : z 
+D : 
+E : a 
+E : b 
+E : c
+F : A 
+F : 
+8
+E:TG
+G:+TG
+G: 
+T:FH
+H:*FH
+H: 
+F:(E)
+F:a
